@@ -1,9 +1,9 @@
 {
   "name": "bot-whatsapp-mm",
   "version": "1.0.0",
-  "main": "index.js",
+  "main": "chatbot.js",
   "scripts": {
-    "start": "node index.js"
+    "start": "node chatbot.js"
   },
   "dependencies": {
     "whatsapp-web.js": "^1.22.2",
